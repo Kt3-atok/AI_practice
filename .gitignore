@@ -28,3 +28,18 @@ build/
 # OS
 .DS_Store
 Thumbs.db
+
+# LM Studio関連（ローカルモデルキャッシュ）
+lmstudio_models/
+models/
+*.bin
+*.gguf
+*.safetensors
+.lmstudio/
+lm-studio/
+cache/
+.cache/
+
+# 環境変数
+.env
+.env.local
