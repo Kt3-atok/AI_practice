@@ -1,11 +1,10 @@
 # AI_practice
 
-LM Studioを使用したRAG（Retrieval-Augmented Generation）の実装練習プロジェクトです。
+LM Studioを使用したプロジェクト
 
 ## 概要
 
-`practice5_rag4.py`は、埋め込みモデルを用いた質問応答システムです。
-プロフィール情報をベクトル化して検索し、LLMで自然な応答を生成します。
+埋め込みモデルを用いた質問応答システム
 
 ## 必要な環境
 
@@ -46,8 +45,6 @@ pip install -r requirements.txt
 ```bash
 python practice5_rag4.py
 ```
-
-実行後、質問を入力してください。デフォルト質問は「好きなアニメは何ですか？」です。
 
 ## 依存パッケージ
 
