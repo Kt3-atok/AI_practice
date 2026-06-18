@@ -1,1 +1,1 @@
-# BeliefChangeAI_practice
+# AI_practice
